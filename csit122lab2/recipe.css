@@ -1,0 +1,29 @@
+body {
+  background-color: green;
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  color: black;
+}
+
+h1 {
+  text-transform: uppercase;
+}
+
+h2 {
+  margin-bottom: 20px;
+  color: black;
+}
+
+h3 {
+  margin: 10px;
+  color: darkblue;
+}
+
+li {
+  margin: 5px;
+  color: black;
+}
+
+a {
+  color: yellow;
+}
