@@ -1,0 +1,67 @@
+body {
+  background-color: #f4f4f4;
+  font-family: 'Verdana', sans-serif;
+  margin: 0;
+  color: #333;
+}
+
+.container {
+  width: 110%;
+  margin: auto;
+  overflow: hidden;
+}
+
+.inline-image {
+  width: 60%;
+  margin-bottom: 10px;
+}
+
+.recipe-section {
+  padding: 10px;
+  background: #fff;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h1, h2, h3 {
+  margin-top: 0;
+}
+
+h1 {
+  font-size: 2em;
+  text-transform: uppercase;
+  color: #333;
+}
+
+h2 {
+  margin-bottom: 20px;
+  font-size: 1.5em;
+  color: #666;
+}
+
+h3 {
+  margin: 10px 0;
+  color: #888;
+}
+
+ul, ol {
+  margin-bottom: 20px;
+}
+
+li {
+  margin: 5px 0;
+  color: #333;
+}
+
+a.more-recipes-link {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.background-image {
+  background-image: url('tunaimages/tunaimages.jpg');
+  height: 310px;
+  width: 120%;
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 5px;
+}
